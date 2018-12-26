@@ -1,0 +1,14 @@
+.EmployeeProjectBox{
+    padding: 52px 30px;
+   }
+  .EmployeeProjectBox input[type = "text"] {
+      border: 1px solid #997979;
+      background: transparent;
+      outline: none;
+      height: 40px;
+      border-radius: 2px;
+      padding-left: 10px;
+      width: 100%;
+      margin-bottom: 10px;
+  }
+  
